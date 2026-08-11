@@ -4,7 +4,7 @@ An open-source simulation engine designed to evaluate route feasibility and ener
 ## 🚀 Current Status (MVP - Phase 1)
 - [x] Initial straight-line trajectory mapping between nodes.
 - [x] Topographic altitude extraction and elevation profiling.
-- [x] Interactive visual mapping (HTML output).
+- [x] Interactive visual mapping (HTML output) link for the map: https://augustoferrer.github.io/geo-graph-optimizer/mapa_completo.html
 
 ## 🗺️ Roadmap & Vision (Where this project is going)
 - [ ] Implement graph-based pathfinding algorithms (Dijkstra / A*) taking elevation gradient constraints into account.
